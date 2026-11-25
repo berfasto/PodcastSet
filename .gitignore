@@ -1,0 +1,17 @@
+# Entornos virtuales de Python
+mi_set_entorno/
+.venv/
+venv/
+env/
+
+# Caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Grabaciones locales y exportaciones de video/audio pesadas
+recordings/
+
+# Historial y estado local de máquina
+recent_projects.json
+*.tmp.mp4

@@ -1,0 +1,81 @@
+{
+  "theme_mode": "dark",
+  "language": "es",
+  "viewport_dark": true,
+  "swatch_size": 24,
+  "active_palette": 0,
+  "palettes": [
+    {
+      "name": "Estudio",
+      "colors": [
+        "#6366F1",
+        "#818CF8",
+        "#A5B4FC",
+        "#38BDF8",
+        "#2EB67D",
+        "#F59E0B",
+        "#E5484D",
+        "#EC4899",
+        "#A855F7",
+        "#F0F2F6",
+        "#697284",
+        "#0D0F12"
+      ]
+    },
+    {
+      "name": "Iluminación Escena",
+      "colors": [
+        "#FFF4E6",
+        "#FFE0B2",
+        "#FFD166",
+        "#FF8FA3",
+        "#C77DFF",
+        "#72EFDD",
+        "#4EA8DE",
+        "#5E60CE",
+        "#F8F9FA",
+        "#343A40"
+      ]
+    },
+    {
+      "name": "Chroma y Neón",
+      "colors": [
+        "#00B140",
+        "#00FF00",
+        "#0047BB",
+        "#FF00FF",
+        "#00F5D4",
+        "#FEE440",
+        "#F15BB5",
+        "#9B5DE5",
+        "#00BBF9",
+        "#FB5607"
+      ]
+    },
+    {
+      "name": "Neutros",
+      "colors": [
+        "#FFFFFF",
+        "#ECEEF2",
+        "#D8DCE5",
+        "#A1A9B8",
+        "#697284",
+        "#323A47",
+        "#262C36",
+        "#1B1F26",
+        "#14171C",
+        "#0D0F12"
+      ]
+    }
+  ],
+  "rail_panels": [
+    "color",
+    "palette",
+    "tracking",
+    "audio_fx",
+    "emotes",
+    "output"
+  ],
+  "shortcuts": {},
+  "workspace_preset": "default"
+}

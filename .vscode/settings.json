@@ -1,0 +1,6 @@
+{
+    "python.defaultInterpreterPath": "${workspaceFolder}\\mi_set_entorno\\Scripts\\python.exe",
+    "code-runner.executorMap": {
+        "python": "$pythonPath -u $fullFileName"
+    }
+}

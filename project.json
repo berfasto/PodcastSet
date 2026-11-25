@@ -1,0 +1,228 @@
+{
+  "bg_color": "#0f1118",
+  "rec_mode": "both",
+  "sprite_mode": "advanced",
+  "characters": [
+    {
+      "id": "a0e4af7f",
+      "name": "javi",
+      "idle": "",
+      "talk": "",
+      "device": "Micrófono (PD100X Podcast Microphone)",
+      "threshold": 54,
+      "bounce": 37,
+      "flip": false,
+      "expressions": [
+        {
+          "name": "Normal",
+          "sprites": {
+            "closed": "assets/Estudio acogedor de podcast y gaming_b832.png",
+            "mid": "assets/Estudio de podcast con neón púrpura_a8ee.png",
+            "open": "assets/Gemini_Generated_Image_94vff894vff894vf_93db.jpeg",
+            "wide": "",
+            "blink": "",
+            "blink_closed": "",
+            "blink_mid": "",
+            "blink_open": "",
+            "half_closed": "",
+            "half_mid": "",
+            "half_open": "",
+            "blink_wide": "",
+            "idle_alt": "assets/Ref mono holograma_ea7b.png"
+          }
+        },
+        {
+          "name": "eee",
+          "sprites": {
+            "closed": "",
+            "mid": "",
+            "open": "",
+            "blink_closed": "",
+            "blink_mid": "",
+            "blink_open": "",
+            "wide": "",
+            "half_closed": "",
+            "half_mid": "",
+            "half_open": "",
+            "blink_wide": "",
+            "idle_alt": ""
+          }
+        }
+      ],
+      "color": "#7c6cff",
+      "mute": false,
+      "gain": 100,
+      "range": 12,
+      "hold": 85,
+      "sway": 6,
+      "breathe": 2,
+      "squash": 4,
+      "blink": true,
+      "blink_every": 4,
+      "expr": 0,
+      "source": "mic",
+      "audio_file": "C:/Users/alter/Downloads/4_Speech Enhancement.mp3",
+      "loop": true,
+      "monitor": true,
+      "play_on_rec": true,
+      "solo": false,
+      "arm": true,
+      "blink_ms": 200
+    },
+    {
+      "id": "324ea00b",
+      "name": "j",
+      "color": "#35d0ba",
+      "device": "Micrófono (PD100X Podcast Micro",
+      "mute": true,
+      "gain": 100,
+      "threshold": 51,
+      "range": 12,
+      "hold": 90,
+      "flip": false,
+      "bounce": 14,
+      "sway": 3,
+      "breathe": 1,
+      "squash": 4,
+      "blink": true,
+      "blink_every": 4,
+      "expressions": [
+        {
+          "name": "Normal",
+          "sprites": {
+            "closed": "",
+            "mid": "",
+            "open": "",
+            "wide": "",
+            "blink": "",
+            "blink_closed": "",
+            "blink_mid": "",
+            "blink_open": "",
+            "half_closed": "",
+            "half_mid": "",
+            "half_open": "",
+            "blink_wide": "",
+            "idle_alt": ""
+          }
+        },
+        {
+          "name": "feliz",
+          "sprites": {
+            "closed": "",
+            "mid": "",
+            "open": "",
+            "blink_closed": "",
+            "blink_mid": "",
+            "blink_open": "",
+            "wide": "",
+            "half_closed": "",
+            "half_mid": "",
+            "half_open": "",
+            "blink_wide": "",
+            "idle_alt": ""
+          }
+        }
+      ],
+      "expr": 1,
+      "source": "mic",
+      "audio_file": "C:/Users/alter/Downloads/4_Speech Enhancement.mp3",
+      "loop": true,
+      "monitor": true,
+      "play_on_rec": true,
+      "solo": false,
+      "arm": false,
+      "blink_ms": 200
+    }
+  ],
+  "scenes": [
+    {
+      "name": "Escena 1",
+      "background": "assets/Estudio de podcast con neón púrpura_3c56.png",
+      "placements": {
+        "a0e4af7f": {
+          "x": 606.4503311258279,
+          "y": -195.16225165562923,
+          "scale": 0.35,
+          "visible": true,
+          "z": 1
+        },
+        "324ea00b": {
+          "x": 353.7265500794912,
+          "y": 263.85945945945946,
+          "scale": 0.77,
+          "visible": true,
+          "z": 2
+        }
+      }
+    },
+    {
+      "name": "Escena 2",
+      "background": "assets/descarga (11)_2539.jpeg",
+      "placements": {
+        "a0e4af7f": {
+          "x": 600.0,
+          "y": -200.0,
+          "scale": 0.35,
+          "visible": true,
+          "z": 1
+        },
+        "324ea00b": {
+          "x": 100.0,
+          "y": 360.0,
+          "scale": 0.96,
+          "visible": true,
+          "z": 1
+        }
+      }
+    }
+  ],
+  "timeline_clips": [
+    {
+      "id": "287e2bf5",
+      "cid": "324ea00b",
+      "tid": "324ea00b",
+      "path": "C:\\Users\\alter\\Downloads\\4_Speech Enhancement.mp3",
+      "name": "4_Speech Enhancement.mp3",
+      "start": 0.0,
+      "src_duration": 141.181,
+      "duration": 141.181,
+      "trim_in": 0.0,
+      "trim_out": 0.0,
+      "gain": 1.154
+    },
+    {
+      "id": "ec132e43",
+      "cid": "a0e4af7f",
+      "tid": "a0e4af7f",
+      "path": "D:\\Proyectos\\PodcastSet\\recordings\\tomas_voz\\javi_20261120_192011.wav",
+      "name": "javi_20261120_192011.wav",
+      "start": 0.0,
+      "src_duration": 3.6693,
+      "duration": 3.6693,
+      "trim_in": 0.0,
+      "trim_out": 0.0,
+      "gain": 1.0
+    }
+  ],
+  "subtracks": [],
+  "in_out": [
+    null,
+    null
+  ],
+  "settings": {
+    "save_dir": "D:\\Proyectos\\PodcastSet\\recordings",
+    "mic_fx": {
+      "enabled": true,
+      "hp_enabled": true,
+      "hp_hz": 80,
+      "gate_enabled": true,
+      "gate_db": -50,
+      "comp_enabled": true,
+      "comp_ratio": 2.0,
+      "makeup_db": 1.5
+    },
+    "vcam_res": "1280x720",
+    "vcam_fps": 30,
+    "discord_map": {}
+  }
+}

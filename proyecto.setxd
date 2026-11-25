@@ -1,0 +1,454 @@
+{
+  "format": "setxd",
+  "version": 2,
+  "bg_color": "#0e0f17",
+  "sprite_mode": "advanced",
+  "characters": [
+    {
+      "id": "90faa8ba",
+      "name": "Berfasto",
+      "color": "#ec3cff",
+      "source": "mic",
+      "device": "Micrófono (PD100X Podcast Microphone)",
+      "mute": false,
+      "solo": false,
+      "arm": true,
+      "gain": 100,
+      "threshold": 48,
+      "range": 12,
+      "hold": 90,
+      "flip": false,
+      "bounce": 14,
+      "sway": 3,
+      "breathe": 1,
+      "squash": 4,
+      "blink": true,
+      "blink_every": 4,
+      "blink_ms": 200,
+      "expressions": [
+        {
+          "name": "Normal",
+          "sprites": {
+            "closed": "assets/Ciudad Pastel Llena de Música y Aventuras_6925.png",
+            "mid": "assets/Ref mono holograma_7f40.png",
+            "open": "assets/descarga (23)_0558.jpeg",
+            "wide": "",
+            "half_closed": "",
+            "half_mid": "",
+            "half_open": "",
+            "blink_closed": "",
+            "blink_mid": "",
+            "blink_open": "",
+            "blink_wide": "",
+            "idle_alt": ""
+          }
+        },
+        {
+          "name": "feliz",
+          "sprites": {
+            "closed": "assets/Boca cerrada_e423.png",
+            "mid": "assets/Boca media_79d9.png",
+            "open": "assets/Boca abierta_3d4b.png",
+            "wide": "",
+            "half_closed": "assets/Ojos medios boca cerrada_10b1.png",
+            "half_mid": "assets/Ojos medios boca medios_58ab.png",
+            "half_open": "assets/Ojos medios boca abierta_68fe.png",
+            "blink_closed": "assets/Ojos cerrado boca cerrada_f48e.png",
+            "blink_mid": "assets/Ojos cerrado boca media_6337.png",
+            "blink_open": "assets/Ojos cerrado boca abierta_e085.png",
+            "blink_wide": "",
+            "idle_alt": ""
+          }
+        }
+      ],
+      "expr": 1
+    },
+    {
+      "id": "b2640b00",
+      "name": "Elius",
+      "color": "#2ee6c5",
+      "source": "mic",
+      "device": "Micrófono (PD100X Podcast Microphone)",
+      "mute": false,
+      "solo": false,
+      "arm": true,
+      "gain": 100,
+      "threshold": 48,
+      "range": 12,
+      "hold": 90,
+      "flip": false,
+      "bounce": 12,
+      "sway": 3,
+      "breathe": 1,
+      "squash": 4,
+      "blink": true,
+      "blink_every": 4,
+      "blink_ms": 200,
+      "expressions": [
+        {
+          "name": "Normal",
+          "sprites": {
+            "closed": "assets/pp1_dcdb.png",
+            "mid": "assets/pp2_0227.png",
+            "open": "assets/pp3_cd92.png",
+            "wide": "",
+            "half_closed": "",
+            "half_mid": "",
+            "half_open": "",
+            "blink_closed": "",
+            "blink_mid": "",
+            "blink_open": "",
+            "blink_wide": "",
+            "idle_alt": ""
+          }
+        }
+      ],
+      "expr": 0
+    },
+    {
+      "id": "7861d049",
+      "name": "Laster",
+      "color": "#ff8a5c",
+      "source": "mic",
+      "device": "Micrófono (PD100X Podcast Microphone)",
+      "mute": false,
+      "solo": false,
+      "arm": true,
+      "gain": 100,
+      "threshold": 52,
+      "range": 12,
+      "hold": 90,
+      "flip": false,
+      "bounce": 60,
+      "sway": 3,
+      "breathe": 1,
+      "squash": 10,
+      "blink": true,
+      "blink_every": 4,
+      "blink_ms": 200,
+      "expressions": [
+        {
+          "name": "Normal",
+          "sprites": {
+            "closed": "assets/lasterl_boca-removebg-preview_33a7.png",
+            "mid": "assets/lasterl-removebg-preview_a84d.png",
+            "open": "assets/aaaa_laster-removebg-preview_f477.png",
+            "wide": "",
+            "half_closed": "",
+            "half_mid": "",
+            "half_open": "",
+            "blink_closed": "",
+            "blink_mid": "",
+            "blink_open": "",
+            "blink_wide": "",
+            "idle_alt": "assets/lasterl_3-removebg-preview_7779.png"
+          }
+        }
+      ],
+      "expr": 0
+    },
+    {
+      "id": "c7031979",
+      "name": "Javi",
+      "color": "#ff5fa2",
+      "source": "mic",
+      "device": "Micrófono (PD100X Podcast Microphone)",
+      "mute": false,
+      "solo": false,
+      "arm": true,
+      "gain": 100,
+      "threshold": 40,
+      "range": 12,
+      "hold": 90,
+      "flip": false,
+      "bounce": 0,
+      "sway": 0,
+      "breathe": 1,
+      "squash": 1,
+      "blink": true,
+      "blink_every": 4,
+      "blink_ms": 200,
+      "expressions": [
+        {
+          "name": "Normal",
+          "sprites": {
+            "closed": "assets/HiPaint_1795241217245_1f83.png",
+            "mid": "assets/HiPaint_1795240902350_ea86.png",
+            "open": "assets/HiPaint_1795237494506_9378.png",
+            "wide": "",
+            "half_closed": "",
+            "half_mid": "",
+            "half_open": "",
+            "blink_closed": "",
+            "blink_mid": "",
+            "blink_open": "",
+            "blink_wide": "",
+            "idle_alt": ""
+          }
+        }
+      ],
+      "expr": 0
+    },
+    {
+      "id": "ce4faafd",
+      "name": "Zerlot",
+      "color": "#5cb8ff",
+      "source": "mic",
+      "device": "Micrófono (PD100X Podcast Microphone)",
+      "mute": false,
+      "solo": false,
+      "arm": true,
+      "gain": 100,
+      "threshold": 40,
+      "range": 12,
+      "hold": 90,
+      "flip": false,
+      "bounce": 60,
+      "sway": 3,
+      "breathe": 1,
+      "squash": 15,
+      "blink": true,
+      "blink_every": 4,
+      "blink_ms": 200,
+      "expressions": [
+        {
+          "name": "Normal",
+          "sprites": {
+            "closed": "assets/z1_8311.png",
+            "mid": "assets/z3_e5b9.png",
+            "open": "assets/z2_87d3.png",
+            "wide": "",
+            "half_closed": "",
+            "half_mid": "",
+            "half_open": "",
+            "blink_closed": "",
+            "blink_mid": "",
+            "blink_open": "",
+            "blink_wide": "",
+            "idle_alt": ""
+          }
+        }
+      ],
+      "expr": 0
+    },
+    {
+      "id": "e8815d46",
+      "name": "logo",
+      "color": "#c8e65c",
+      "source": "mic",
+      "device": null,
+      "mute": false,
+      "solo": false,
+      "arm": true,
+      "gain": 100,
+      "threshold": 40,
+      "range": 12,
+      "hold": 90,
+      "flip": false,
+      "bounce": 14,
+      "sway": 3,
+      "breathe": 4,
+      "squash": 4,
+      "blink": true,
+      "blink_every": 4,
+      "blink_ms": 200,
+      "expressions": [
+        {
+          "name": "Normal",
+          "sprites": {
+            "closed": "assets/LOGO ENTRE  NOS negro_Mesa de trabajo 1_d1df.png",
+            "mid": "",
+            "open": "",
+            "wide": "",
+            "half_closed": "",
+            "half_mid": "",
+            "half_open": "",
+            "blink_closed": "",
+            "blink_mid": "",
+            "blink_open": "",
+            "blink_wide": "",
+            "idle_alt": ""
+          }
+        }
+      ],
+      "expr": 0
+    }
+  ],
+  "scenes": [
+    {
+      "name": "Escena 1",
+      "background": "assets/Estudio de podcast con neón púrpura_55f4.png",
+      "placements": {
+        "90faa8ba": {
+          "x": 1309.9769568646273,
+          "y": 412.360183261576,
+          "scale": 0.411351237395941,
+          "visible": true,
+          "z": 3,
+          "rotation": 0.0
+        },
+        "b2640b00": {
+          "x": 379.3004374456366,
+          "y": 420.3199696393372,
+          "scale": 1.1025,
+          "visible": true,
+          "z": 1,
+          "rotation": 0.0
+        },
+        "7861d049": {
+          "x": 1313.2435463926502,
+          "y": 407.60456927761516,
+          "scale": 0.39573395701665026,
+          "visible": true,
+          "z": 2,
+          "rotation": 12.3
+        },
+        "c7031979": {
+          "x": 854.3220763449303,
+          "y": 431.1681074920827,
+          "scale": 1.551328215978516,
+          "visible": true,
+          "z": 0,
+          "rotation": 0.0
+        },
+        "ce4faafd": {
+          "x": 297.32484076433127,
+          "y": 436.165605095543,
+          "scale": 0.3418498710866216,
+          "rotation": -1.6,
+          "visible": true,
+          "z": 4
+        },
+        "e8815d46": {
+          "x": 681.6115315053738,
+          "y": -69.89245222929935,
+          "scale": 0.57,
+          "rotation": 0.0,
+          "visible": true,
+          "z": -1
+        }
+      }
+    }
+  ],
+  "timeline_clips": [
+    {
+      "id": "f7c73013",
+      "cid": "90faa8ba",
+      "tid": "90faa8ba",
+      "path": "C:\\Users\\alter\\Downloads\\xqANhPaSlt2j-5-berfasto.wav",
+      "name": "xqANhPaSlt2j-5-berfasto.wav",
+      "start": 0.0,
+      "src_duration": 944.54,
+      "duration": 944.54,
+      "trim_in": 0.0,
+      "trim_out": 0.0,
+      "gain": 1.0
+    },
+    {
+      "id": "b10be8f9",
+      "cid": "b2640b00",
+      "tid": "b2640b00",
+      "path": "C:\\Users\\alter\\Downloads\\xqANhPaSlt2j-3-eliusplay.wav",
+      "name": "xqANhPaSlt2j-3-eliusplay.wav",
+      "start": 0.0,
+      "src_duration": 950.78,
+      "duration": 950.78,
+      "trim_in": 0.0,
+      "trim_out": 0.0,
+      "gain": 1.0
+    },
+    {
+      "id": "ab81eee3",
+      "cid": "7861d049",
+      "tid": "7861d049",
+      "path": "C:\\Users\\alter\\Downloads\\xqANhPaSlt2j-2-aronuwu.wav",
+      "name": "xqANhPaSlt2j-2-aronuwu.wav",
+      "start": 0.0,
+      "src_duration": 947.56,
+      "duration": 947.56,
+      "trim_in": 0.0,
+      "trim_out": 0.0,
+      "gain": 1.0
+    },
+    {
+      "id": "8c209302",
+      "cid": "c7031979",
+      "tid": "c7031979",
+      "path": "C:\\Users\\alter\\Downloads\\xqANhPaSlt2j-4-ma1ch1javi.wav",
+      "name": "xqANhPaSlt2j-4-ma1ch1javi.wav",
+      "start": 0.0,
+      "src_duration": 950.76,
+      "duration": 950.76,
+      "trim_in": 0.0,
+      "trim_out": 0.0,
+      "gain": 1.0
+    },
+    {
+      "id": "c89a52d7",
+      "cid": "ce4faafd",
+      "tid": "ce4faafd",
+      "path": "C:\\Users\\alter\\Downloads\\xqANhPaSlt2j-1-the_zerlot.wav",
+      "name": "xqANhPaSlt2j-1-the_zerlot.wav",
+      "start": 0.0,
+      "src_duration": 950.76,
+      "duration": 950.76,
+      "trim_in": 0.0,
+      "trim_out": 0.0,
+      "gain": 1.0
+    }
+  ],
+  "subtracks": [],
+  "in_out": [
+    null,
+    null
+  ],
+  "settings": {
+    "save_dir": "D:\\Proyectos\\PodcastSet\\recordings",
+    "grid_size": 20,
+    "mic_filters": [
+      {
+        "id": "ba211b",
+        "type": "highpass",
+        "name": "Filtro pasa-altos",
+        "enabled": false,
+        "params": {
+          "hz": 152.0
+        }
+      },
+      {
+        "id": "00f30b",
+        "type": "noise_suppress",
+        "name": "Eliminador de ruido",
+        "enabled": false,
+        "params": {
+          "strength": 100.0
+        }
+      },
+      {
+        "id": "0fed88",
+        "type": "compressor",
+        "name": "Compresor de voz",
+        "enabled": false,
+        "params": {
+          "threshold_db": -4.0,
+          "ratio": 8.0,
+          "makeup_db": 18.0
+        }
+      },
+      {
+        "id": "42e1fc",
+        "type": "limiter",
+        "name": "Limitador",
+        "enabled": false,
+        "params": {
+          "ceiling_db": -10.0
+        }
+      }
+    ],
+    "vcam_res": "1280x720",
+    "vcam_fps": 30,
+    "discord_port": 8765,
+    "discord_live": false,
+    "discord_map": {}
+  }
+}
